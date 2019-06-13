@@ -1,0 +1,15 @@
+############################################################
+# Esther Lowe Pymoli Financial Analysis Summary 06/07/2019 #
+############################################################
+
+There were some clear trends in the data:
+
+1. The item that most benefited the company was: Oathbreaker, Last Hope of the Breaking Storm. Not only was the item purchased the most (12 times) but it also had the greatest total purchase value ($50.76).
+
+2. The vast majority of players were male, however, they spent the least per person, on average ($4.07). The "Other/ Non-Disclosed" players spent the most ($4.56), followed closely by females ($4.47), per person on average.
+
+3. Of the $2379.77 earned by the company, $1114.06 was earned on purchases made by players between 20 - 24 years old. The next highest spending age group was 15 - 19 years old ($412.89) and the third highest spenders were players between 25 and 29 years old ($293.00).
+
+These age ranges also have the greatest number of players compared to the rest of the age ranges. Interestingly, only one of these three age ranges also spent highest amounts per person. Players 35 - 39 spent the most per person ($4.76), then players 10 and under ($4.54), and third, players 20 - 24 years old, who spent the most overall, spent only $4.32 per person.
+
+It may be of greatest benefit to the company to create incentives and advertisements geared toward increasing the number of players 10 and under as well as 35 - 39 years old, who prefer not to identify their gender or are female. Another potential way to increase profit would be to create an item that counters the Oathbreaker or is comperable to it for slightly more money... between $4.60 and $5.
